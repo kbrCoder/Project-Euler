@@ -7,7 +7,7 @@ public class HelloWorld
         long sayac = 0;
         if(sayi==1)
             return false;
-        elseif(sayi==2)
+        else if(sayi==2)
             return true;
         for(long i=1;i<sayi;i++)
         {
